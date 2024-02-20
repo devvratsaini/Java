@@ -17,8 +17,7 @@ public class Sum3And5 {
                 break;
             }
         }
-        System.out.println();
 
-        System.out.println("Sum of first 5 numbers divisible by 3 and 5 = " + sum);
+        System.out.println("\nSum of first 5 numbers divisible by 3 and 5 = " + sum);
     }
 }
